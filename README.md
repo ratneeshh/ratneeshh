@@ -9,8 +9,8 @@ I'm a passionate software developer learning and making projects in Express.js, 
 - **IDE:** VS Code, IntelliJ IDEA
 
 ## 🌱 I'm Learning
-- Java
-- MERN
+- Java (because why not?)
+- MERN Stack (because versatility rocks!)
 
 ## 📫 Let's Connect
 - [Portfolio](https://ratnesh.vercel.app/)
