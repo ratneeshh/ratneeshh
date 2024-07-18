@@ -13,7 +13,7 @@ I'm a passionate software developer learning and making projects in Express.js, 
 - MERN
 
 ## 📫 Let's Connect
-- LinkedIn: www.linkedin.com/in/ratnesh-anand-nitp
-- Portfolio: ratnesh.vercel.app
+- [Portfolio](https://ratnesh.vercel.app/)
+- [LinkedIn](www.linkedin.com/in/ratnesh-anand-nitp)
 
 Feel free to reach out—I'd love to chat about tech, hackathons, or my startup idea- ServiQue! 😊
