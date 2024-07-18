@@ -6,7 +6,7 @@ I'm a passionate software developer learning and making projects in Express.js, 
 - **Languages:** Java, JavaScript
 - **Frameworks:** Express.js, Node.js
 - **Database:** MongoDB (including MongoDB Atlas)
-- **IDE:** IntelliJ IDEA
+- **IDE:** VS Code, IntelliJ IDEA
 
 ## 🌱 I'm Learning
 - Java
